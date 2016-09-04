@@ -1,0 +1,37 @@
+<DOCTYPE HTML>
+	<html>
+    <head>
+      <title>C@Rli</title>
+    </head>
+    <body>
+    <header><h2>C@rli</h2></header>
+    <br>
+<a href="https:wwww.w3.org/WAI">WAI</a> <a href="https://github.com">GitHub</a> <a href="https://www.youtube.com/channel/UCyle-61Y8C4-o-zZCtO4ETQ">DevTips</a> <a href="http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web">MONO Journal Good Web Design 10 Commandments</a>
+<br>
+<nav>
+<ul>
+	<li><h3>Fave Foods</h3></li>
+	<li>Salmon</li>
+	<li>Brown Rice with Steamed veggies</li>
+	<li>Fruit; Pears, Bananas, Mangos, Raspberries... &amp; etc.</li>
+	<li>Protein Smoothies</li>
+<br>
+    <li><h3>Achievements</h3></li> 
+    <li>BA (in History)</li>
+    <li>First Coursera course in Alzheimer's &amp; Dementia Care</li>
+    <li>Lean &amp; 5S Management Training at work </li>
+    <li>HTML5 &amp; Web Design Specialization courses</li>
+<br>
+    <li><h3>More about C</h3>
+    <li>I have an insatiable love of learning.</li>
+    <li>A constant impulse to create drives me.</li>
+    <li>Communication and Creative Expression cause me to pause, listen, look, see...</li>
+    <li>Conversation comes first for me, then the written word and then the other muses, graces and forms of idea-sharing...</li>
+</ul>
+</nav>
+<br>
+<footer>
+	<a href="http://www.intro-webdesign.com/images/newlogo.png"><img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design Logo" width=""50%></a>
+</footer>
+     </body>
+	</html>
